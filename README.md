@@ -18,8 +18,4 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
   <img height="180em" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical">
 </p>
 
-<p align="center">
-  <img height="180em" style="margin-top: 20px;" src="https://ghchart.rshah.org/adiaz-uf">
-</p>
-
 💡 *Always learning, always building, always improving.*
