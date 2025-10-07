@@ -31,9 +31,8 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 <!-- Gráfico de contribuciones tipo calendario -->
 <p align="center">
-  <img height="180" style="margin-top: 20px;"
+  <img height="200em" style="margin-top: 20px;"
        src="https://ghchart.rshah.org/adiaz-uf" />
 </p>
----
 
 💡 *Always learning, always building, always improving.*
