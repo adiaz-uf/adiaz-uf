@@ -12,9 +12,9 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
 </p>
 
 ---
