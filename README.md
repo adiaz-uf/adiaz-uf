@@ -12,20 +12,25 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
+  <!-- Lenguajes más usados -->
   <img height="180em" style="margin-right: 20px;" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
-  
+  <!-- Estadísticas generales -->
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
 </p>
 
+<!-- Streak (racha de actividad) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adiaz-uf&bg_color=141321&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz-uf&theme=radical&hide_border=false" />
 </p>
 
+<!-- 3D Contributions (gráfico 3D tipo colinas de commits) -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/adiaz-uf?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&notable=1&theme=radical" />
+  <img height="300em"
+       src="https://github.com/adi-uf/adi-uf/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
 
