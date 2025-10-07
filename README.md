@@ -1,8 +1,8 @@
-# Hi there, I'm Adiaz 👋
+# Hi there, I'm Alex 👋
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** with expertise in **Data Analysis** and **C/C++ Development**. I'm passionate about building robust applications and solving complex problems through code.
+I'm a **Software Developer** with expertise in **Data Analysis** **Full-Stack** and **C/C++ Development**. I'm passionate about building robust applications and solving complex problems through code.
 
 ### 🚀 What I Do
 
