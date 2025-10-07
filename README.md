@@ -12,8 +12,7 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 ### 📈 GitHub Stats
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical) |
-|:--:|:--:|
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical)
 
 
 ---
