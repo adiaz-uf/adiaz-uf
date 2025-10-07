@@ -16,21 +16,18 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
   <!-- Lenguajes más usados -->
   <img height="180em" style="margin-right: 20px;" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
+
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz-uf&theme=radical&hide_border=false" />
+       
   <!-- Estadísticas generales -->
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
 </p>
 
-<!-- Streak (racha de actividad) -->
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz-uf&theme=radical&hide_border=false" />
-</p>
-
 <!-- 3D Contributions (gráfico 3D tipo colinas de commits) -->
 <p align="center">
-  <img height="300em"
-       src="https://github.com/adiaz-uf/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://ghchart.rshah.org/adiaz-uf" />
 </p>
 ---
 
