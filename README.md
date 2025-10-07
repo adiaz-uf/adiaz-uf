@@ -9,7 +9,7 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 - 💻 **Full-Stack Development**: Building end-to-end applications with modern technologies
 - 📊 **Data Analysis**: Extracting insights and creating data-driven solutions
 - ⚙️ **C/C++ Development**: Systems programming and performance-critical applications
-- 
+  
 <h1 align="center">📈 GitHub Stats</h1>
 
 <p align="center">
