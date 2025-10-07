@@ -12,22 +12,27 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <!-- Lenguajes más usados -->
-  <img height="180em"" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0 10px;">
+      <img height="180em"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
+    </td>
+    <td style="padding: 0 10px;">
+      <img height="180em"
+           src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz-uf&theme=radical&hide_border=false" />
+    </td>
+    <td style="padding: 0 10px;">
+      <img height="180em"
+           src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz-uf&theme=radical&hide_border=false" />
-       
-  <!-- Estadísticas generales -->
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=adiaz-uf&show_icons=true&theme=radical" />
-</p>
-
-<!-- 3D Contributions (gráfico 3D tipo colinas de commits) -->
+<!-- Gráfico de contribuciones tipo calendario -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/adiaz-uf" />
+  <img height="180" style="margin-top: 20px;"
+       src="https://ghchart.rshah.org/adiaz-uf" />
 </p>
 ---
 
