@@ -30,7 +30,7 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 <!-- 3D Contributions (gráfico 3D tipo colinas de commits) -->
 <p align="center">
   <img height="300em"
-       src="https://github.com/adiaz-uf/adiaz-uf/blob/output/github-contribution-grid-snake-dark.svg" />
+       src="https://github.com/adiaz-uf/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 ---
 
