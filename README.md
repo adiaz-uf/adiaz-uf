@@ -14,7 +14,7 @@ I'm a **Software Developer** with expertise in **Data Analysis,** **Full-Stack**
 
 <p align="left">
   <!-- Lenguajes más usados -->
-  <img height="180em" style="margin-right: 20px;" 
+  <img height="180em"" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz-uf&layout=compact&theme=radical" />
 
   <img height="180em"
